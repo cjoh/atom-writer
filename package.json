@@ -1,0 +1,12 @@
+{
+  "name": "Writer",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": false,
+  "description": "A nice, readable markdown writing environment for Atom.",
+  "repository": "https://github.com/cjoh/atom-writer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
